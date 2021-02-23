@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-I am Vishrut Jha from Tempe, AZ. I am a grad student at ASU, studying Computer Science.
+I am Vishrut Jha from Tempe, AZ. I am a grad student at [ASU's Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/), studying Computer Science (MS)
 <!--
 **vishrutkmr7/vishrutkmr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working at Compliance Group, Inc.
+- 🔭 I’m currently working at [ompliance Group, Inc.](https://www.complianceg.com/)
 - 🌱 I’m currently learning ...
 - 💬 Ask me about Soccer⚽ at any time of the day
 - 📫 How to reach me: [Stack Overflow](https://stackoverflow.com/users/8020018/vishrut-jha), [Twitter](https://www.twitter.com/vishrutkmr7), [LinkedIn](https://www.linkedin.com/in/vishrutkmr7)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: 
+- ⚡ Fun fact: There's a basketball court on the top floor of the U.S. Supreme Court Building. Its nickname? You guessed it: "the highest court in the land." 
 
 [![Vishrut's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishrutkmr7&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
