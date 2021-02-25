@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vishrut Jha from Tempe, AZ. I am a grad student at [ASU's Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/), studying Computer Science (MS)
+I am Vishrut Jha from Tempe, AZ. I am an incoming grad student at [ASU's Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/), and I'll be studying Computer Science (MS)
 <!--
 **vishrutkmr7/vishrutkmr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -12,7 +12,7 @@ I am Vishrut Jha from Tempe, AZ. I am a grad student at [ASU's Ira A. Fulton Sch
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: There's a basketball court on the top floor of the U.S. Supreme Court Building. Its nickname? You guessed it: "the highest court in the land." 
 
-[![Vishrut's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishrutkmr7&include_all_commits=true&show_owner=true&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Vishrut's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishrutkmr7&include_all_commits=true&show_owner=true&count_private=true&show_icons=true&theme=gotham&title="Vishrut's Github Stats")](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishrutkmr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
