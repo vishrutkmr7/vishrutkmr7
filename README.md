@@ -11,7 +11,7 @@ I am Vishrut Jha from Tempe, AZ. I am an incoming grad student at [ASU's Ira A. 
 - 📫 How to reach me: [Stack Overflow](https://stackoverflow.com/users/8020018/vishrut-jha), [Twitter](https://www.twitter.com/vishrutkmr7), [LinkedIn](https://www.linkedin.com/in/vishrutkmr7)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: There's a basketball court on the top floor of the U.S. Supreme Court Building. Its nickname? You guessed it: "the highest court in the land."
-- 📖 Useful reads: [The Tao of Programming](http://www.mit.edu/~xela/tao.html)
+- 📖 Useful reads: [The Tao of Programming](http://www.mit.edu/~xela/tao.html), [Modest advice](https://stearnslab.yale.edu/modest-advice) that I live by as a Graduate Student
 
 [![Vishrut's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishrutkmr7&include_all_commits=true&show_owner=true&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
