@@ -15,8 +15,8 @@ I am Vishrut Jha from Tempe, AZ. I am an incoming grad student at [ASU's Ira A. 
 
 [![Vishrut's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishrutkmr7&include_all_commits=true&show_owner=true&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishrutkmr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishrutkmr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-*NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+<!-- *NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-[![Vishrut's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vishrutkmr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Vishrut's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vishrutkmr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
