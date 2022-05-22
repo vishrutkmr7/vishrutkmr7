@@ -7,7 +7,7 @@ I'm Vishrut Jha from Tempe, AZ. I am a grad student at [ASU's Ira A. Fulton Scho
 <!--
 - 🔭 I’m currently working at [Compliance Group, Inc.](https://www.complianceg.com/)
 -->
-- 🌱 I’m currently learning Python, AI, NLP, and Knowledge Representation
+- 🌱 I’m currently learning Python, SwiftUI, NLP and Machine Learning.
 - 💬 Ask me about soccer⚽ at any time of the day (and we all know that [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi) is the [:goat:](https://www.urbandictionary.com/define.php?term=goat))
 - 📫 How to reach me: [Stack Overflow](https://stackoverflow.com/users/8020018/vishrut-jha), [Twitter](https://www.twitter.com/vishrutkmr7), [LinkedIn](https://www.linkedin.com/in/vishrutkmr7)
 - 👦🏻 Pronouns: He/Him/His
