@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-I'm Vishrut Jha from Tempe, AZ. I am a grad student at [ASU's Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/), majoring in Computer Science.
+I'm Vishrut Jha from Phoenix, AZ. I am a grad student at [ASU's Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/), majoring in Computer Science.
 <!--
 **vishrutkmr7/vishrutkmr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!--
-- 🔭 I’m currently working at [Compliance Group, Inc.](https://www.complianceg.com/)
--->
+- 🔭 I’m currently working at [Prickly Pear Health, Inc.](https://www.pricklypear.io/) as a Founding Engineer.
 - 🌱 I’m currently learning Python, SwiftUI, NLP and Machine Learning.
 - 💬 Ask me about soccer⚽ at any time of the day (and we all know that [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi) is the [:goat:](https://www.urbandictionary.com/define.php?term=goat))
-- 📫 How to reach me: [Stack Overflow](https://stackoverflow.com/users/8020018/vishrut-jha), [Twitter](https://www.twitter.com/vishrutkmr7), [LinkedIn](https://www.linkedin.com/in/vishrutkmr7)
+- 📫 How to reach me: [My Portfolio | vishrutjha.com](https://www.vishrutjha.com), [Twitter](https://www.twitter.com/vishrutkmr7), [LinkedIn](https://www.linkedin.com/in/vishrutkmr7)
+- 📃 Here's my [résumé](https://www.vishrutjha.com/resume).
 - 👦🏻 Pronouns: He/Him/His
 - ⚡ Fun fact: There's a basketball court on the top floor of the U.S. Supreme Court Building. Its nickname? You guessed it: "the highest court in the land."
 - 📖 Useful reads: [The Tao of Programming](http://www.mit.edu/~xela/tao.html), [Modest advice](https://stearnslab.yale.edu/modest-advice) that I live by as a grad student.
