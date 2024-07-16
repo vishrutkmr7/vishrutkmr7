@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vishrut Jha from Phoenix, AZ. I am a grad student at [ASU's Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/), majoring in Computer Science.
+I'm Vishrut Jha from Phoenix, AZ. I am a grad student from [ASU's Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/), majored in Computer Science, and minored in Cyber Security.
 <!--
 **vishrutkmr7/vishrutkmr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
