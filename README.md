@@ -14,7 +14,7 @@ I'm Vishrut Jha from Phoenix, AZ. I am a grad student from [ASU's Ira A. Fulton 
 - 📖 Useful reads: [The Tao of Programming](http://www.mit.edu/~xela/tao.html), [Modest advice](https://stearnslab.yale.edu/modest-advice) that I live by as a grad student.
 - [VS Code Profile](https://vscode.dev/profile/github/555ce238bb150eb98168ce1025e561ac)
 
-[![Vishrut's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishrutkmr7&include_all_commits=true&show_owner=true&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Vishrut's GitHub stats](https://myreadme.vercel.app/api/embed/vishrutkmr7?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/PressJump/reimaginedreadme)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishrutkmr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
